@@ -1,9 +1,7 @@
 package utils;
 
-
 public class AfficheurAscii5 {
-
-	public void afficheascii() {
+	public static void afficheascii() {
 		System.out.println("___/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\_         \n" + 
 				" __\\/\\\\\\///////////__        \n" + 
 				"  __\\/\\\\\\_____________       \n" + 
@@ -20,5 +18,4 @@ public class AfficheurAscii5 {
 				"__|");
 		*/
 	}
-
 }
