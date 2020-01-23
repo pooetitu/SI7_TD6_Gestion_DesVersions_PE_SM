@@ -7,5 +7,6 @@ public class Main {
 	public static void main(String[] args) {
 		AfficheurAscii5.afficheascii();
 		AfficheurX5.afficheX5();
+		System.out.println("test");
 	}
 }
